@@ -25,7 +25,7 @@ class MainActivity : ComponentActivity() {
 // 4. KOIN FOR DI ,
 // 5.OFFLINE FIRST APPROACH  ,
 // 6.COROUTINE,
-// 7. SWIPE TO REFRESH , 8. ROOM DB , 9 . SEARCHING ,
+// 7. SWIPE TO REFRESH , 8. ROOM DB , 9 . SEARCHING , 10 type alias
 
 
 // TODO: read NetworkBoundResource - > {
